@@ -1,6 +1,16 @@
 {
-  "holey-moley": {},
-  "strike-bowling": {},
+  "holey-moley": {
+    "color": {
+      "value": "#ffffff",
+      "type": "spacing"
+    }
+  },
+  "strike-bowling": {
+    "red": {
+      "value": "#eb0000",
+      "type": "color"
+    }
+  },
   "archie-brothers": {},
   "hijinx-hotel": {},
   "la-di-darts": {},
