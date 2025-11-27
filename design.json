@@ -1,9 +1,21 @@
 {
-  "global": {},
+  "holey-moley": {},
+  "strike-bowling": {},
+  "archie-brothers": {},
+  "hijinx-hotel": {},
+  "la-di-darts": {},
+  "lucky-and-sons": {},
+  "funlab": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "holey-moley",
+      "strike-bowling",
+      "archie-brothers",
+      "hijinx-hotel",
+      "la-di-darts",
+      "lucky-and-sons",
+      "funlab"
     ]
   }
 }
